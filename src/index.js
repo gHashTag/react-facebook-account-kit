@@ -94,7 +94,7 @@ AccountKit.propTypes = {
 
 AccountKit.defaultProps = {
   disabled: false,
-  language: "en_US",
+  language: "ru_RU",
   loginType: "PHONE"
 };
 
