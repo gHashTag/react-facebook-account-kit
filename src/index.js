@@ -16,7 +16,7 @@ class AccountKit extends React.Component {
         const tag = document.createElement("script");
         tag.setAttribute(
           "src",
-          `https://sdk.accountkit.com/${this.props.language}/sdk.js`
+          `https://sdk.accountkit.com/ru_RU/sdk.js`
         );
         tag.setAttribute("id", "account-kit");
         tag.setAttribute("type", "text/javascript");
